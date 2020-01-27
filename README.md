@@ -2,7 +2,7 @@
 Code samples related to [Building Better Bots](https://aws.amazon.com/blogs/ai/building-better-bots-part-2/) published on the AWS ML Blog
 
 # CoffeeBot
-
+[![Run on Repl.it](https://repl.it/badge/github/aws-samples/amazon-ai-building-better-bots)](https://repl.it/github/aws-samples/amazon-ai-building-better-bots)
 CoffeeBot is a transactional chat bot that can help one order a mocha (relies on AWS Amplify and Android).
 
 Consider this conversation:
